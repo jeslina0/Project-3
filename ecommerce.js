@@ -23,6 +23,6 @@ export default function Login() {
 export default function AddProduct() {
     return <>AddProduct</>
   }
-  export default function Cart() {
+  export default function Cart() 
     return <>Cart</>
   }
